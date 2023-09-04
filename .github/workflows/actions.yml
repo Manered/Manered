@@ -20,7 +20,8 @@ jobs:
           user: Manered
           template: classic
           base: header, activity, community, repositories, metadata
-          config_timezone: Europe/Poland
+          # I live in Poland but Prague has the same timezone
+          config_timezone: Europe/Prague
 
           # Activity
           plugin_activity: yes
