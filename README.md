@@ -23,12 +23,7 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="left">
-<a href="https://github.com/Manered">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Manered&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Manered&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+<img src="/github-metrics.svg" alt="Metrics" width="100%">
 
 ### 🤝🏻 &nbsp;Connect with Me
 
