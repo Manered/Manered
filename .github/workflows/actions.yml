@@ -64,6 +64,8 @@ jobs:
           # Lines
           plugin_lines: yes
 
+          config_display: columns
+
           # Notable
           plugin_notable: yes
           plugin_notable_from: organization
