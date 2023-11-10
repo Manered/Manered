@@ -6,7 +6,7 @@
 🌱 &nbsp;I'm on track for learning more about Plugin Creation.\
 ✍️ &nbsp;In my free time, I pursue UIX Design and Content Creation (Minecraft PvP) as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for any reason you want to.\
-✉️ &nbsp;You can shoot me an email at maneredev@gmail.com! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at maneredev@gmail.com! I'll try to respond as soon as I can.
 
 ### 🛠 &nbsp;Programming Languages I know
 
